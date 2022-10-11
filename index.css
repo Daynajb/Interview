@@ -1,0 +1,52 @@
+video {
+  object-fit: cover;
+  width: 100vw;
+/*  height: 100vh;*/
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.viewport-header {
+  position: relative;
+ 
+  text-align: left;
+  display: flex;
+ 
+    max-width: 65ch;
+    float:right;
+   margin-right: 160px;
+    font-family: 'Space Mono';
+ 
+}
+
+.myriam{font-family: 'Space Mono';
+    font-weight: 300;
+    font-size: 16;
+    line-height: 1.5;
+    color: white;
+    
+    
+}
+
+.myriamQ{font-family: 'Space Mono';
+    font-weight: 300;
+    font-size: 16;
+    line-height: 1.5;
+    color: white;
+    padding-top: 50px;
+       font-weight: 700;
+    opacity: 50%;
+    
+    
+}
+
+.myriamB{font-family: 'Space Mono';
+    font-weight: 700;
+    font-size: 40;
+    line-height: 1.5;
+    color: white;
+    padding-top: 50px;
+    
+    
+}
